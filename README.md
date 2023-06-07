@@ -9,9 +9,9 @@
 
 💥 In there you can find several links to many of my other projects.
 
-:link: You can also find me in [LinkedIn](https://www.linkedin.com/in/marcosnapolitano/).
+:link: You can also find me on [LinkedIn](https://www.linkedin.com/in/marcosnapolitano/).
 
-🤖 And in [Discord](https://discordapp.com/users/MarcosNapolitano#6798).
+🤖 On [Discord](https://discordapp.com/users/MarcosNapolitano#6798).
 
 📬 Or you can email me at: [marcosnapolitano7@gmail.com](mailto:marcosnapolitano7@gmail.com).
 
